@@ -19,21 +19,21 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **HTML, CSS and Javascript**
 
-- 💬 Ask me about **Problem Solving and Web Development**
+- 💬 Ask me about **Problem Solving and Competitive Programming**
 
-- 📫 How to reach me **debanjan.edu.2002@gmail.com**
+- 📫 How to reach me **chandanagrawal23@gmail.com**
 
-- ⚡ Fun fact **I can solve a Rubik's Cube in 10 seconds!**
+<!-- - ⚡ Fun fact **I can solve a Rubik's Cube in 10 seconds!** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/debanjan-poddar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debanjan-poddar" height="30" width="40" /></a>
-<a href="https://instagram.com/debanjan_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debanjan_2002" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/debanjan_2002" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="debanjan_2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/debanjan_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="debanjan_2002" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/debanjan_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="debanjan_2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/debanjan2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debanjan2002" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/debanjan2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="debanjan2002" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chandanagrawal23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debanjan-poddar" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/debanjan_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debanjan_2002" height="30" width="40" /></a> -->
+<a href="https://www.codechef.com/users/ssrivastava990" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="chandanagrawal23" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/debanjan_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandanagrawal23" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/debanjan_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chandanagrawal23" height="30" width="40" /></a>
+<a href="https://leetcode.com/chandanagrawal23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandanagrawal23" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/debanjan2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chandanagrawal23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
